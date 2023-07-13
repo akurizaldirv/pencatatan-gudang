@@ -5,16 +5,16 @@ This web-based warehouse recording application is made using the Native PHP prog
 I wrote my design system here .......................... (*indonesian)
 
 ## Login 
-> Super Admin
-> Admin1
-> Admin2
+- Super Admin
+- Admin1
+- Admin2
 
 ## How to Access
 open this link https://gudang-sepatu.000webhostapp.com/ and try to log in with existing accounts above.
 
 ## Tools
-> PHP Native
-> SQLite
-> AJAX
+- PHP Native
+- SQLite
+- AJAX
 
 
