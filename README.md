@@ -9,7 +9,7 @@ This web-based warehouse recording application is made using the Native PHP prog
 ## How to Access
 open this link https://gudang-sepatu.000webhostapp.com/ and try to log in with existing accounts above.
 I deployed it on free hosting. Usually the browser will detected it as a scam. 
-But, i promised it is save.
+But, i promised it is safe.
 
 ## Tools
 - PHP Native
